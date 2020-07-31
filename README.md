@@ -1,6 +1,8 @@
 # VersionUtils
 
-Utils for version-strings manipulation
+[![Gem Version](https://badge.fury.io/rb/version_utils.svg)](https://badge.fury.io/rb/version_utils)
+
+Utils for version-string manipulation and comparison.
 
 ## Instalation
 
