@@ -28,4 +28,4 @@ jobs:
       with:
         ruby-version: 2.6
     - name: Run all tests
-      run: ruby tests/*
+      run: ruby test/*
