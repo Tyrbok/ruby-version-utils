@@ -21,7 +21,7 @@ bundle
 Or install it yourself as: 
 
 ```shell
-gem install verision_utils
+gem install version_utils
 ```
 
 ## Usage
